@@ -1,2 +1,2 @@
-This repo contains instructions for installing, configuring, and customizing a personal portfolio website. 
+A pre-configured personal portfolio website for Python backends. 
 Dependencies: NGINX, Gunicorn, Python, and Flask 
